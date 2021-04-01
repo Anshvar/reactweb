@@ -1,5 +1,6 @@
 {
   "name": "web",
+  "homepage" : "https://anshvar.github.io/reactweb" 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
